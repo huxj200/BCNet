@@ -1,0 +1,38 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "train_net",
+            "type": "python",
+            "request": "launch",
+            "env": {
+                "CUDA_VISIBLE_DEVICES": "3"
+            },
+            "program": "${file}",
+            "args": [
+                "--num-gpus",
+                "1",
+                "--config-file",
+                "configs/fcos/fcos_imprv_R_50_FPN.yaml"
+                ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        },
+        {
+            "name": "process_dataset",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": [
+                "/raid/users/hxj/datasets/logs/train.json",
+                "/raid/users/hxj/datasets/logs",
+                "self_coco_train"
+                ],
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}

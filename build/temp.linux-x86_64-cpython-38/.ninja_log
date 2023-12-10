@@ -1,0 +1,27 @@
+# ninja log v5
+30	20436	1702018940928042057	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/vision.o	3950c11181c7c00e
+27	635	1702019487196710986	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/cuda_version.o	913cfc0b450b1aa1
+28	17227	1702019503777375527	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	8905028a90b76b07
+26	16000	1702019502553326418	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.o	c059d50a89c418cb
+29	6454	1702019493000943447	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	394b07572e175026
+30	21836	1702018942344091223	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	30ffd5a4cbceb042
+27	16970	1702019503521365255	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	dd52579514380453
+25	7827	1702019494368998266	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.o	47ab1c0f0ae5b76
+26	16929	1702019503477363490	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	9e7681a0339c554a
+27	6862	1702019493404959636	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	4c7942cdf30f6251
+28	19281	1702019505829457875	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/deformable/deform_conv_cuda.o	a5958ea4a9172802
+26	8065	1702019494609007884	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	d944abcc4fcaabe3
+25	21234	1702124077802361947	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/vision.o	95725eee72b861c4
+25	22104	1702124078690260948	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	4adf61ad13248611
+28	629	1702124080186091182	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/cuda_version.o	69d68185dc67243c
+27	5947	1702124085493492928	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	95efbe47c0a99f22
+29	6335	1702124085881449428	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	fd5df3b587a49418
+26	7739	1702124087281292815	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	5552565336bcaa00
+25	7980	1702124087525265568	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.o	1c7be3cd3d72a540
+27	15691	1702124095240410544	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	cdf882f1ca77aa3c
+26	15706	1702124095256408785	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.o	c1f9ac5ea17fdadb
+29	16461	1702124096008326139	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	770c83e91507feba
+27	16919	1702124096468275683	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	ce947515c78b9f7c
+28	18798	1702124098348069841	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/deformable/deform_conv_cuda.o	50d52a17dda98eb6
+30	20498	1702124100023886962	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/vision.o	3950c11181c7c00e
+29	21999	1702124101543721677	/raid/users/hxj/detectron2/BCNet/build/temp.linux-x86_64-cpython-38/raid/users/hxj/detectron2/BCNet/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	30ffd5a4cbceb042

@@ -1,0 +1,6 @@
+# Default ignored files
+output/inference/coco_instances_results.json
+pretrained_models/model_final_beta.pth
+/output/
+/log/
+/pretrained_models/
